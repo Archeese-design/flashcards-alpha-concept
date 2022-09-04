@@ -1,5 +1,4 @@
 # flashcards-alpha-concept
-concept for web browser 
-
+concept of flip card for e-commerce or educational platforms (like QUIZLET or ANKI)
 TRY DEMO 
 https://archishellshocked-ass.github.io/flashcards-alpha-concept/
